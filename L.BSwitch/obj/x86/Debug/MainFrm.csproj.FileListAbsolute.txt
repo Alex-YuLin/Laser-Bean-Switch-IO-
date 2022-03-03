@@ -1,0 +1,66 @@
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\bin\x86\Debug\L.BSwitch.exe.config
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\bin\x86\Debug\L.BSwitch.exe
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\bin\x86\Debug\L.BSwitch.pdb
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\bin\x86\Debug\MNetCL_x64.dll
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\bin\x86\Debug\Newtonsoft.Json.dll
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\bin\x86\Debug\Newtonsoft.Json.xml
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.MainFrm.resources
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.Properties.Resources.resources
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.GenerateResource.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CoreCompileInputs.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CopyComplete
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.exe
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.pdb
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\OutPut x86\L.BSwitch.exe.config
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\OutPut x86\L.BSwitch.exe
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\OutPut x86\L.BSwitch.pdb
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.MainFrm.resources
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.Properties.Resources.resources
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.GenerateResource.cache
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CoreCompileInputs.cache
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CopyComplete
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.exe
+G:\hortek\Software\InDevelope\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.pdb
+D:\Alex\LaserBeanSwitch\OutPut x86\L.BSwitch.exe.config
+D:\Alex\LaserBeanSwitch\OutPut x86\L.BSwitch.exe
+D:\Alex\LaserBeanSwitch\OutPut x86\L.BSwitch.pdb
+D:\Alex\LaserBeanSwitch\LasesWitch x86\L.BSwitch.exe.config
+D:\Alex\LaserBeanSwitch\LasesWitch x86\L.BSwitch.exe
+D:\Alex\LaserBeanSwitch\LasesWitch x86\L.BSwitch.pdb
+D:\Alex\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.MainFrm.resources
+D:\Alex\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.Properties.Resources.resources
+D:\Alex\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.GenerateResource.cache
+D:\Alex\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CoreCompileInputs.cache
+D:\Alex\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CopyComplete
+D:\Alex\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.exe
+D:\Alex\LaserBeanSwitch\L.BSwitch\obj\x86\Debug\L.BSwitch.pdb
+C:\Program Files\_BL_ChgFyberBean\L.BSwitch.exe.config
+C:\Program Files\_BL_ChgFyberBean\L.BSwitch.exe
+C:\Program Files\_BL_ChgFyberBean\L.BSwitch.pdb
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.MainFrm.resources
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\L.BSwitch.Properties.Resources.resources
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.csproj.GenerateResource.cache
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CoreCompileInputs.cache
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\L.BSwitch.exe
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\L.BSwitch.pdb
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\LasesWitch x86\L.BSwitch.exe.config
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\LasesWitch x86\L.BSwitch.exe
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\LasesWitch x86\L.BSwitch.pdb
+C:\Users\yulin\Desktop\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CopyComplete
+D:\Alex\LaserBeanSwitc_1\LasesWitch x86\L.BSwitch.exe.config
+D:\Alex\LaserBeanSwitc_1\LasesWitch x86\L.BSwitch.exe
+D:\Alex\LaserBeanSwitc_1\LasesWitch x86\L.BSwitch.pdb
+D:\Alex\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.MainFrm.resources
+D:\Alex\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\L.BSwitch.Properties.Resources.resources
+D:\Alex\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.csproj.GenerateResource.cache
+D:\Alex\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CoreCompileInputs.cache
+D:\Alex\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CopyComplete
+D:\Alex\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\L.BSwitch.exe
+D:\Alex\LaserBeanSwitc_1\L.BSwitch\obj\x86\Debug\L.BSwitch.pdb
+D:\Alex\LaserBeanSwitc\L.BSwitch\obj\x86\Debug\MainFrm.MainFrm.resources
+D:\Alex\LaserBeanSwitc\L.BSwitch\obj\x86\Debug\L.BSwitch.Properties.Resources.resources
+D:\Alex\LaserBeanSwitc\L.BSwitch\obj\x86\Debug\MainFrm.csproj.GenerateResource.cache
+D:\Alex\LaserBeanSwitc\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CoreCompileInputs.cache
+D:\Alex\LaserBeanSwitc\L.BSwitch\obj\x86\Debug\MainFrm.csproj.CopyComplete
+D:\Alex\LaserBeanSwitc\L.BSwitch\obj\x86\Debug\L.BSwitch.exe
+D:\Alex\LaserBeanSwitc\L.BSwitch\obj\x86\Debug\L.BSwitch.pdb

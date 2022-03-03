@@ -1,0 +1,16 @@
+*.exe
+*.htm
+*.pdf
+*.dll
+*.xml
+*.prj
+*.ezm
+*.zip
+*.wrl
+*.jpg
+*.rar
+*.tmp
+*.log
+*.nupkg
+*.deploy
+*._

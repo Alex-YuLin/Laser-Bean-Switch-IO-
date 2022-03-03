@@ -1,0 +1,33 @@
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\OutPut\KeyInfoSetting.exe.config
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\OutPut\KeyInfoSetting.exe
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\OutPut\KeyInfoSetting.pdb
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.csprojAssemblyReference.cache
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.MainFrm.resources
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.Properties.Resources.resources
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.GenerateResource.cache
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.CoreCompileInputs.cache
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.CopyComplete
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.exe
+K:\hortek\Software\開發中\GarvalScan\GS V1.1.10.2\KeyInfoSetting\obj\Debug\KeyInfoSetting.pdb
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\OutPut\KeyInfoSetting.exe.config
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\OutPut\KeyInfoSetting.exe
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\OutPut\KeyInfoSetting.pdb
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csprojAssemblyReference.cache
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.MainFrm.resources
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.Properties.Resources.resources
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.GenerateResource.cache
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.CoreCompileInputs.cache
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.CopyComplete
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.exe
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.pdb
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\OutPut\KeyInfoSetting.exe.config
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\OutPut\KeyInfoSetting.exe
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.MainFrm.resources
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.Properties.Resources.resources
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.GenerateResource.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.CoreCompileInputs.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.CopyComplete
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.exe
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.pdb
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\OutPut\KeyInfoSetting.pdb
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\KeyInfoSetting\obj\Debug\KeyInfoSetting.csproj.AssemblyReference.cache

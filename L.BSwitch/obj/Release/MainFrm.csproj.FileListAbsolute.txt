@@ -1,0 +1,14 @@
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\Release\L.BSwitch.exe.config
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\Release\L.BSwitch.exe
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\Release\L.BSwitch.pdb
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\Release\MNetCL_x64.dll
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\Release\Newtonsoft.Json.dll
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\Release\Newtonsoft.Json.xml
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\MainFrm.csprojAssemblyReference.cache
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\MainFrm.MainFrm.resources
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\L.BSwitch.Properties.Resources.resources
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\MainFrm.csproj.GenerateResource.cache
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\MainFrm.csproj.CoreCompileInputs.cache
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\MainFrm.csproj.CopyComplete
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\L.BSwitch.exe
+K:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\Release\L.BSwitch.pdb

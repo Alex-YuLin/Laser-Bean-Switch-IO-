@@ -1,0 +1,36 @@
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\x64\Debug\L.BSwitch.exe.config
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\x64\Debug\L.BSwitch.exe
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\x64\Debug\L.BSwitch.pdb
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\x64\Debug\MNetCL_x64.dll
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\x64\Debug\Newtonsoft.Json.dll
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\bin\x64\Debug\Newtonsoft.Json.xml
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.AssemblyReference.cache
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.MainFrm.resources
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.Properties.Resources.resources
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.GenerateResource.cache
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.CoreCompileInputs.cache
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.CopyComplete
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.exe
+E:\hortek\Software\開發中\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.pdb
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\OutPut\L.BSwitch.exe.config
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\OutPut\L.BSwitch.exe
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\OutPut\L.BSwitch.pdb
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.MainFrm.resources
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.Properties.Resources.resources
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.GenerateResource.cache
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.CoreCompileInputs.cache
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.CopyComplete
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.exe
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.pdb
+K:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csprojAssemblyReference.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.AssemblyReference.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.MainFrm.resources
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.Properties.Resources.resources
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.GenerateResource.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.CoreCompileInputs.cache
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\OutPut\L.BSwitch.exe.config
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\OutPut\L.BSwitch.exe
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\OutPut\L.BSwitch.pdb
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\MainFrm.csproj.CopyComplete
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.exe
+G:\hortek\Software\開發中\1. 初步測試 OK\LaserBeanSwitch\L.BSwitch\obj\x64\Debug\L.BSwitch.pdb
