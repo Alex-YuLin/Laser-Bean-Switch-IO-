@@ -68,14 +68,14 @@
             this.ToolStatus});
             this.Status.Location = new System.Drawing.Point(0, 240);
             this.Status.Name = "Status";
-            this.Status.Size = new System.Drawing.Size(372, 22);
+            this.Status.Size = new System.Drawing.Size(371, 22);
             this.Status.TabIndex = 4;
             this.Status.Text = "statusStrip1";
             // 
             // ToolStatus
             // 
             this.ToolStatus.Name = "ToolStatus";
-            this.ToolStatus.Size = new System.Drawing.Size(42, 17);
+            this.ToolStatus.Size = new System.Drawing.Size(41, 17);
             this.ToolStatus.Text = "Status";
             this.ToolStatus.TextChanged += new System.EventHandler(this.ToolStatus_TextChanged);
             // 
@@ -114,10 +114,12 @@
             // RadB_Matrix
             // 
             this.RadB_Matrix.Appearance = System.Windows.Forms.Appearance.Button;
+            this.RadB_Matrix.Checked = true;
             this.RadB_Matrix.Location = new System.Drawing.Point(6, 26);
             this.RadB_Matrix.Name = "RadB_Matrix";
             this.RadB_Matrix.Size = new System.Drawing.Size(137, 33);
             this.RadB_Matrix.TabIndex = 2;
+            this.RadB_Matrix.TabStop = true;
             this.RadB_Matrix.Text = "Matrix";
             this.RadB_Matrix.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.RadB_Matrix.UseVisualStyleBackColor = true;
@@ -126,7 +128,6 @@
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.Label_BeanValue);
-            this.groupBox2.Controls.Add(this.Label_Middle);
             this.groupBox2.Controls.Add(this.Label_Max);
             this.groupBox2.Controls.Add(this.Label_Min);
             this.groupBox2.Controls.Add(this.trackBar1);
@@ -143,16 +144,16 @@
             this.Label_BeanValue.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.Label_BeanValue.Location = new System.Drawing.Point(6, 25);
             this.Label_BeanValue.Name = "Label_BeanValue";
-            this.Label_BeanValue.Size = new System.Drawing.Size(21, 17);
+            this.Label_BeanValue.Size = new System.Drawing.Size(55, 17);
             this.Label_BeanValue.TabIndex = 4;
-            this.Label_BeanValue.Text = "M";
+            this.Label_BeanValue.Text = "Index: 1";
             this.Label_BeanValue.Click += new System.EventHandler(this.Label_BeanValue_Click);
             // 
             // Label_Middle
             // 
             this.Label_Middle.AutoSize = true;
             this.Label_Middle.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Label_Middle.Location = new System.Drawing.Point(83, 54);
+            this.Label_Middle.Location = new System.Drawing.Point(380, 220);
             this.Label_Middle.Name = "Label_Middle";
             this.Label_Middle.Size = new System.Drawing.Size(21, 17);
             this.Label_Middle.TabIndex = 3;
@@ -165,9 +166,9 @@
             this.Label_Max.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.Label_Max.Location = new System.Drawing.Point(160, 54);
             this.Label_Max.Name = "Label_Max";
-            this.Label_Max.Size = new System.Drawing.Size(21, 17);
+            this.Label_Max.Size = new System.Drawing.Size(16, 17);
             this.Label_Max.TabIndex = 2;
-            this.Label_Max.Text = "M";
+            this.Label_Max.Text = "5";
             // 
             // Label_Min
             // 
@@ -175,9 +176,9 @@
             this.Label_Min.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.Label_Min.Location = new System.Drawing.Point(6, 54);
             this.Label_Min.Name = "Label_Min";
-            this.Label_Min.Size = new System.Drawing.Size(21, 17);
+            this.Label_Min.Size = new System.Drawing.Size(16, 17);
             this.Label_Min.TabIndex = 1;
-            this.Label_Min.Text = "M";
+            this.Label_Min.Text = "1";
             // 
             // trackBar1
             // 
@@ -189,7 +190,7 @@
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(179, 30);
             this.trackBar1.TabIndex = 0;
-            this.trackBar1.Value = 5;
+            this.trackBar1.Value = 1;
             this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
             // 
             // button1
@@ -331,8 +332,9 @@
             // MainFrm
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
-            this.ClientSize = new System.Drawing.Size(372, 262);
+            this.ClientSize = new System.Drawing.Size(371, 262);
             this.Controls.Add(this.button12);
+            this.Controls.Add(this.Label_Middle);
             this.Controls.Add(this.button11);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button10);
